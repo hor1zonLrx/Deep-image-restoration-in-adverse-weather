@@ -1,0 +1,64 @@
+name: Paper suggestion
+description: Suggest a new adverse-weather image restoration paper/resource
+title: "[Paper] "
+labels: ["paper-suggestion"]
+body:
+  - type: input
+    id: method
+    attributes:
+      label: Method name
+    validations:
+      required: true
+  - type: input
+    id: paper
+    attributes:
+      label: Paper title
+    validations:
+      required: true
+  - type: dropdown
+    id: task
+    attributes:
+      label: Task
+      options:
+        - Dehazing
+        - Deraining
+        - Desnowing
+        - Raindrop removal
+        - Other adverse-weather restoration
+        - Video-based restoration
+        - All-in-One restoration
+        - General-purpose All-in-One restoration
+    validations:
+      required: true
+  - type: dropdown
+    id: source
+    attributes:
+      label: Covered by the survey?
+      description: Is this method/paper already covered in "Deep Image Restoration in Adverse Weather: A Survey" (Neural Networks 2027)?
+      options:
+        - Yes (covered in the survey)
+        - No (community addition beyond the survey)
+    validations:
+      required: true
+  - type: input
+    id: venue
+    attributes:
+      label: Venue and year
+    validations:
+      required: true
+  - type: input
+    id: paper_url
+    attributes:
+      label: Paper URL
+    validations:
+      required: true
+  - type: input
+    id: code_url
+    attributes:
+      label: Official code URL
+  - type: textarea
+    id: summary
+    attributes:
+      label: One-sentence summary
+    validations:
+      required: true

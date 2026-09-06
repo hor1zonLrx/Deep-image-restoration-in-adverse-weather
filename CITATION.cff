@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+title: "Awesome Adverse Weather Image Restoration"
+message: "If you use this repository, please cite our survey paper."
+type: dataset
+authors:
+  - family-names: Song
+    given-names: Zhenbo
+  - family-names: Li
+    given-names: Ruixin
+  - family-names: Zhang
+    given-names: Zhenyuan
+  - family-names: Wang
+    given-names: Tao
+  - family-names: Lu
+    given-names: Jianfeng
+  - family-names: Yu
+    given-names: Xin
+  - family-names: Zhang
+    given-names: Kaihao
+url: "https://github.com/hor1zonLrx/Deep-image-restoration-in-adverse-weather"
+preferred-citation:
+  type: article
+  title: "Deep Image Restoration in Adverse Weather: A Survey"
+  authors:
+    - family-names: Song
+      given-names: Zhenbo
+    - family-names: Li
+      given-names: Ruixin
+    - family-names: Zhang
+      given-names: Zhenyuan
+    - family-names: Wang
+      given-names: Tao
+    - family-names: Lu
+      given-names: Jianfeng
+    - family-names: Yu
+      given-names: Xin
+    - family-names: Zhang
+      given-names: Kaihao
+  journal: "Neural Networks"
+  volume: 205
+  pages: "109472"
+  year: 2027
+  doi: "10.1016/j.neunet.2026.109472"
+  license: "CC-BY-4.0"
