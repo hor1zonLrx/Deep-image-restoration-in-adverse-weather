@@ -4,9 +4,7 @@
 
 ### 论文 *Deep Image Restoration in Adverse Weather: A Survey* 官方配套仓库
 
-Zhenbo Song, Ruixin Li<sup>\*</sup>, Zhenyuan Zhang, Tao Wang, Jianfeng Lu, Xin Yu, Kaihao Zhang<sup>†</sup>
-
-<sup>\*</sup> 共同一作 · <sup>†</sup> 通讯作者
+Zhenbo Song, Ruixin Li, Zhenyuan Zhang, Tao Wang, Jianfeng Lu, Xin Yu, Kaihao Zhang
 
 [![Paper](https://img.shields.io/badge/Paper-Neural%20Networks-1f6feb)](https://doi.org/10.1016/j.neunet.2026.109472)
 [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.neunet.2026.109472-blue)](https://doi.org/10.1016/j.neunet.2026.109472)
