@@ -46,7 +46,7 @@ Zhenbo Song, Ruixin Li, Zhenyuan Zhang, Tao Wang, Jianfeng Lu, Xin Yu, Kaihao Zh
   <img src="assets/images/survey_overview.png" width="1000" alt="论文组织结构总览(论文 Fig. 2)">
 </p>
 
-> **链接说明。** `Paper` 优先指向已核实的 arXiv 版本，否则指向正式出版页面或作者提供的论文；`Code` 指向作者提供的实现，`Project` 表示已公布但尚无实现的项目；`Dataset` 指向官方资源及下载说明。`—` 仅表示尚未添加已核实的链接，不代表不存在。详见[链接核查与覆盖范围](docs/LINK_AUDIT.md)。
+> **链接说明。** `Paper` 优先指向已核实的 arXiv 版本，否则指向正式出版页面或作者提供的论文；`Code` 指向实现，优先采用作者资源，第三方副本明确标注 `(mirror)`；`Project` 表示已公布但尚无实现的项目；`Dataset` 指向资源页面或下载说明，不一定是压缩包直链。`—` 仅表示尚未添加已核实的链接，不代表不存在。详见[链接核查与覆盖范围](docs/LINK_AUDIT.md)。
 
 ## 🔮 仓库内容
 
@@ -88,7 +88,7 @@ Zhenbo Song, Ruixin Li, Zhenyuan Zhang, Tao Wang, Jianfeng Lu, Xin Yu, Kaihao Zh
 | GFN (Ren et al., 2018) | CVPR 2018 | SL | Multi-Scale Residual Encoder-Decoder + Gated Fusion | [Paper](https://arxiv.org/abs/1804.00213) | [Code](https://github.com/rwenqi/GFN-dehazing) |
 | GridDehazeNet (Liu et al., 2019) | ICCV 2019 | SL | Attention + Multi-scale CNN | [Paper](https://arxiv.org/abs/1908.03245) | [Code](https://github.com/proteus1991/GridDehazeNet) |
 | FAMED-Net (Zhang & Tao, 2019) | TIP 2019 | SL | Multi-Scale CNN + Dense Connection | [Paper](https://arxiv.org/abs/1906.04334) | [Code](https://github.com/chaimi2013/FAMED-Net) |
-| Deep DCP (Golts et al., 2019) | TIP 2019 | UL | Dilated Residual CNN | [Paper](https://arxiv.org/abs/1812.07051) | — |
+| Deep DCP (Golts et al., 2019) | TIP 2019 | UL | Dilated Residual CNN | [Paper](https://arxiv.org/abs/1812.07051) | [Code](https://github.com/AlonaGolts/Deep_Energy) |
 | SSID (Li et al., 2019a) | TIP 2019 | SSL | Encoder-Decoder Architecture with Attention Mechanism | [Paper](https://doi.org/10.1109/TIP.2019.2952690) | — |
 | FFA-Net (Qin et al., 2020) | AAAI 2020 | SL | Residual + Attention CNN | [Paper](https://arxiv.org/abs/1911.07559) | [Code](https://github.com/zhilin007/FFA-Net) |
 | MSCNN-HE (Ren et al., 2020) | IJCV 2020 | SL | Multi-scale + Coarse-scale + Fine-scale + Edge Guided | [Paper](https://doi.org/10.1007/s11263-019-01235-8) | — |
@@ -155,17 +155,17 @@ Zhenbo Song, Ruixin Li, Zhenyuan Zhang, Tao Wang, Jianfeng Lu, Xin Yu, Kaihao Zh
 
 | Method | Venue | Learning | Network structure | Paper | Code |
 | --- | --- | --- | --- | --- | --- |
-| DerainNet (Fu et al., 2017a) | TIP 2017 | SL | Three Layers | [Paper](https://arxiv.org/abs/1609.02087) | — |
+| DerainNet (Fu et al., 2017a) | TIP 2017 | SL | Three Layers | [Paper](https://arxiv.org/abs/1609.02087) | [Code](https://xueyangfu.github.io/projects/tip2017.html) |
 | DDN (Fu et al., 2017b) | CVPR 2017 | SL | Residual Network | [Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Fu_Removing_Rain_From_CVPR_2017_paper.pdf) | [Code](https://github.com/XMU-smartdsp/Removing_Rain) |
-| JORDER (Yang et al., 2017) | CVPR 2017 | SL | Multi-Task Network | [Paper](https://arxiv.org/abs/1609.07769) | [Code](https://github.com/ZhangXinNan/RainDetectionAndRemoval) |
+| JORDER (Yang et al., 2017) | CVPR 2017 | SL | Multi-Task Network | [Paper](https://arxiv.org/abs/1609.07769) | [Code (mirror)](https://github.com/ZhangXinNan/RainDetectionAndRemoval) |
 | RESCAN (Li et al., 2018c) | ECCV 2018 | SL | Recurrent Network | [Paper](https://arxiv.org/abs/1807.05698) | [Code](https://github.com/XiaLiPKU/RESCAN) |
 | PReNet (Ren et al., 2019) | CVPR 2019 | SL | Recursive Network | [Paper](https://arxiv.org/abs/1901.09221) | [Code](https://github.com/csdwren/PReNet) |
-| DAF-Net (Hu et al., 2019) | CVPR 2019 | SL | Residual Network | [Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Hu_Depth-Attentional_Features_for_Single-Image_Rain_Removal_CVPR_2019_paper.pdf) | — |
+| DAF-Net (Hu et al., 2019) | CVPR 2019 | SL | Residual Network | [Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Hu_Depth-Attentional_Features_for_Single-Image_Rain_Removal_CVPR_2019_paper.pdf) | [Code](https://github.com/xw-hu/DAF-Net) |
 | SPANet (Wang et al., 2019) | CVPR 2019 | SL | Multi-Stage Network | [Paper](https://arxiv.org/abs/1904.01538) | [Code](https://github.com/stevewongv/SPANet) |
 | UMRL (Yasarla & Patel, 2019) | CVPR 2019 | SL | Multi-Scale Network | [Paper](https://arxiv.org/abs/1906.11129) | [Code](https://github.com/rajeevyasarla/UMRL--using-Cycle-Spinning) |
 | SSIR (Wei et al., 2019) | CVPR 2019 | SSL | Two Subnetworks | [Paper](https://arxiv.org/abs/1807.11078) | [Code](https://github.com/wwzjer/Semi-supervised-IRR) |
 | RaindropAttention (Quan et al., 2019) | ICCV 2019 | SL | U-Net Like Network | [Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Quan_Deep_Learning_for_Seeing_Through_Window_With_Raindrops_ICCV_2019_paper.pdf) | — |
-| LPNet (Fu et al., 2019) | TNNLS 2019 | SL | Pyramid Network | [Paper](https://arxiv.org/abs/1805.06173) | — |
+| LPNet (Fu et al., 2019) | TNNLS 2019 | SL | Pyramid Network | [Paper](https://arxiv.org/abs/1805.06173) | [Code](https://xueyangfu.github.io/projects/LPNet.html) |
 | JORDER-E (Yang et al., 2019) | TPAMI 2019 | SL | Multi-Task Network | [Paper](https://doi.org/10.1109/TPAMI.2019.2895793) | [Code](https://github.com/flyywh/JORDER-E-Deep-Image-deraining-TPAMI-2019-Journal) |
 | MSPFN (Jiang et al., 2020) | CVPR 2020 | SL | Multi-Scale Network | [Paper](https://arxiv.org/abs/2003.10985) | [Code](https://github.com/kuijiang94/MSPFN) |
 | DRD-Net (Deng et al., 2020) | CVPR 2020 | SL | Two Subnetworks | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Deng_Detail-recovery_Image_Deraining_via_Context_Aggregation_Networks_CVPR_2020_paper.pdf) | [Code](https://github.com/Dengsgithub/DRD-Net) |
@@ -178,7 +178,7 @@ Zhenbo Song, Ruixin Li, Zhenyuan Zhang, Tao Wang, Jianfeng Lu, Xin Yu, Kaihao Zh
 | EfficientDeRain (Guo et al., 2021) | AAAI 2021 | SL | U-Net Like Network | [Paper](https://arxiv.org/abs/2009.09238) | [Code](https://github.com/tsingqguo/efficientderain) |
 | ESDNet (Song et al., 2024) | IJCAI 2024 | SL | SNN | [Paper](https://arxiv.org/abs/2405.06277) | [Code](https://github.com/MingTian99/ESDNet) |
 | PADUM (Xiao & Xia, 2025) | Neural Netw. 2025 | SL | APGD + SFPM | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608025007257) | [Code](https://github.com/cassiopeia-yxx/PADUM) |
-| DEMore-Net (Wang et al., 2025c) | Neural Netw. 2025 | SL | Depth Estimation + MOR + HNB | [Paper](https://www.sciencedirect.com/science/article/pii/S0893608025006197?dgcid=rss_sd_all) | — |
+| DEMore-Net (Wang et al., 2025c) | Neural Netw. 2025 | SL | Depth Estimation + MOR + HNB | [Paper](https://www.sciencedirect.com/science/article/pii/S0893608025006197?dgcid=rss_sd_all) | [Code](https://github.com/yz-wang/DEMore-Net) |
 | CSUD (Dong et al., 2025) | CVPR 2025 | SL | U-shaped Dense Net + Cross-scale Spatial Feature | [Paper](https://arxiv.org/abs/2503.18703) | [Code](https://github.com/GuangluDong0728/CSUD-Unsupervised-Deraining-CVPR2025) |
 
 ### GAN 方法
@@ -210,7 +210,7 @@ Zhenbo Song, Ruixin Li, Zhenyuan Zhang, Tao Wang, Jianfeng Lu, Xin Yu, Kaihao Zh
 | RLP (Zhang et al., 2023b) | ICCV 2023 | SL | RLP + RPIM + DM | [Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_Learning_Rain_Location_Prior_for_Nighttime_Deraining_ICCV_2023_paper.pdf) | [Code](https://github.com/zkawfanx/RLP) |
 | NeRD-Rain (Chen et al., 2024b) | CVPR 2024 | SL | U-Net Like Network | [Paper](https://arxiv.org/abs/2404.01547) | [Code](https://github.com/cschenxiang/NeRD-Rain) |
 | FADformer (Gao et al., 2024a) | ECCV 2024 | SL | FAD + Transformer + Cross-scale interaction | [Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/5751_ECCV_2024_paper.php) | [Code](https://github.com/deng-ai-lab/FADformer) |
-| FreqMamba (Zou et al., 2024) | ACMMM 2024 | SL | U-Net + Triple-branch FreqSSM Block | [Paper](https://arxiv.org/abs/2404.09476) | — |
+| FreqMamba (Zou et al., 2024) | ACMMM 2024 | SL | U-Net + Triple-branch FreqSSM Block | [Paper](https://arxiv.org/abs/2404.09476) | [Code](https://github.com/aSleepyTree/FreqMamba) |
 | MS-DEMamba (Cheng et al., 2025) | ACMMM 2025 | SL | Dual-branch Mamba + Dynamic Adaptive Scanning Blocks | [Paper](https://doi.org/10.1145/3746027.3758228) | — |
 
 ## 1.3 图像去雪
@@ -243,7 +243,7 @@ Zhenbo Song, Ruixin Li, Zhenyuan Zhang, Tao Wang, Jianfeng Lu, Xin Yu, Kaihao Zh
 | --- | --- | --- | --- | --- | --- |
 | SmartAssign (Wang et al., 2023c) | CVPR 2023 | SL | Multi-task Network | [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_SmartAssign_Learning_a_Smart_Knowledge_Assignment_Strategy_for_Deraining_and_CVPR_2023_paper.pdf) | — |
 
-> 除上表所列深度学习方法外,论文叙述部分还讨论了基于模型的去雪(如 MGF,Zheng et al., 2013)与可逆神经网络方法 InvDSNet(Quan et al., 2023),后者通过双路径结构将图像分解为雪层与干净层(论文 §3.3)。
+> 除上表所列深度学习方法外,论文叙述部分还讨论了基于模型的去雪(如 MGF,Zheng et al., 2013)与可逆神经网络方法 InvDSNet(Quan et al., 2023) [Paper](https://doi.org/10.1109/TCSVT.2022.3233655) [Code](https://github.com/csxhtan/InvDSNet),后者通过双路径结构将图像分解为雪层与干净层(论文 §3.3)。
 
 ## 1.4 其他不良天气恢复任务
 
@@ -251,9 +251,9 @@ Zhenbo Song, Ruixin Li, Zhenyuan Zhang, Tao Wang, Jianfeng Lu, Xin Yu, Kaihao Zh
 
 | 退化类型 | 论文引用 | 说明(来自论文 §3.4) |
 |---|---|---|
-| 沙尘暴恢复 | (Liu et al., 2022; Liu et al., 2021a; Si et al., 2023) | 抑制空气中粉尘颗粒的影响:低对比度、颜色失真、类霾的重 veil |
-| 暴雨(heavy rain) | (Li et al., 2019b; Wen et al., 2024; Zhang et al., 2024b) | 雨线、积水雨滴与薄雾混合,退化复杂且不均匀,超出常规去雨范畴 |
-| 夜间霾 | (Cong et al., 2024; Jin et al., 2023; Liu et al., 2023; Yan et al., 2020; Zhang et al., 2017; Zhang et al., 2020a) | 低可见度 + 人造光源 + 传感器噪声,常需联合建模光照与透射率 |
+| 沙尘暴恢复 | ([Liu et al., 2022](https://ieeexplore.ieee.org/document/9969127); [Liu et al., 2021a](https://arxiv.org/abs/2103.17126); [Si et al., 2023](https://arxiv.org/abs/2309.08838)) | 抑制空气中粉尘颗粒的影响:低对比度、颜色失真、类霾的重 veil |
+| 暴雨(heavy rain) | ([Li et al., 2019b](https://arxiv.org/abs/1904.05050); [Wen et al., 2024](https://arxiv.org/abs/2205.03553); [Zhang et al., 2024b](https://doi.org/10.1109/TMM.2024.3359480)) | 雨线、积水雨滴与薄雾混合,退化复杂且不均匀,超出常规去雨范畴 |
+| 夜间霾 | ([Cong et al., 2024](https://arxiv.org/abs/2403.18548); [Jin et al., 2023](https://arxiv.org/abs/2308.01738); [Liu et al., 2023](https://arxiv.org/abs/2305.09533); [Yan et al., 2020](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/1616_ECCV_2020_paper.php); [Zhang et al., 2017](https://openaccess.thecvf.com/content_cvpr_2017/papers/Zhang_Fast_Haze_Removal_CVPR_2017_paper.pdf); [Zhang et al., 2020a](https://arxiv.org/abs/2008.03864)) | 低可见度 + 人造光源 + 传感器噪声,常需联合建模光照与透射率 |
 | 结霜场景 | — | 半透明或不透明结晶图案遮挡图像内容 |
 
 论文还讨论了耦合退化,如 雨+低光(L2RIRNet, Lin et al., 2025a;MS-DEMamba, Cheng et al., 2025 见 1.2 表)与 雨&霾 混合(论文 §3.6)。
@@ -385,8 +385,8 @@ Zhenbo Song, Ruixin Li, Zhenyuan Zhang, Tao Wang, Jianfeng Lu, Xin Yu, Kaihao Zh
 | Dataset | Size | Syn/Real | Paired | Key idea | Venue | Paper | Dataset |
 | --- | --- | --- | :---: | --- | ---: | --- | --- |
 | Rain12 (Li et al., 2016) | 0/12 | S | ✓ | Small-scale benchmark with Photoshop-simulated rain; widely used for early testing | CVPR 2016 | [Paper](https://doi.org/10.1109%2FCVPR.2016.299) | — |
-| Rain100L (Yang et al., 2017) | 1,800/100 | S | ✓ | Light rain simulation over 100 images; tests on sparse streaks | CVPR 2017 | [Paper](https://arxiv.org/abs/1609.07769) | — |
-| Rain100H (Yang et al., 2017) | 1,800/100 | S | ✓ | Heavy and complex rain patterns; challenges model robustness | CVPR 2017 | [Paper](https://arxiv.org/abs/1609.07769) | — |
+| Rain100L (Yang et al., 2017) | 1,800/100 | S | ✓ | Light rain simulation over 100 images; tests on sparse streaks | CVPR 2017 | [Paper](https://arxiv.org/abs/1609.07769) | [Dataset (mirror)](https://github.com/ZhangXinNan/RainDetectionAndRemoval#2-download) |
+| Rain100H (Yang et al., 2017) | 1,800/100 | S | ✓ | Heavy and complex rain patterns; challenges model robustness | CVPR 2017 | [Paper](https://arxiv.org/abs/1609.07769) | [Dataset (mirror)](https://github.com/ZhangXinNan/RainDetectionAndRemoval#2-download) |
 | Rain200L (Yang et al., 2017) | 1,800/200 | S | ✓ | Augmented light rain dataset for improved diversity | CVPR 2017 | [Paper](https://arxiv.org/abs/1609.07769) | — |
 | Rain200H (Yang et al., 2017) | 1,800/200 | S | ✓ | Augmented heavy rain dataset; evaluates performance under dense rain | CVPR 2017 | [Paper](https://arxiv.org/abs/1609.07769) | — |
 | RainDrop (Qian et al., 2018) | 1119 | R | ✓ | Real image pairs with glass-adhered raindrops; enables learning of severe occlusion restoration | CVPR 2018 | [Paper](https://arxiv.org/abs/1711.10098) | [Dataset](https://github.com/rui1996/DeRaindrop) |
@@ -394,12 +394,12 @@ Zhenbo Song, Ruixin Li, Zhenyuan Zhang, Tao Wang, Jianfeng Lu, Xin Yu, Kaihao Zh
 | Rain800 (Zhang et al., 2019) | 700/100 | S | ✓ | Synthetic paired dataset with 700 training and 100 test images | TCSVT 2019 | [Paper](https://arxiv.org/abs/1701.05957) | — |
 | SPA-Data (Wang et al., 2019) | 28,500/1,000 | R | ✓ | Real-rain pairs constructed from videos with temporal priors and human supervision | CVPR 2019 | [Paper](https://arxiv.org/abs/1904.01538) | [Dataset](https://github.com/stevewongv/SPANet) |
 | MPID (Li et al., 2019c) | 3,961/419 | S&R | ✓ | Multi-type & task-driven benchmark for synthetic and real-world deraining | CVPR 2019 | [Paper](https://arxiv.org/abs/1903.08558) | [Dataset](https://github.com/panda-lab/Single-Image-Deraining) |
-| RainCityscapes (Hu et al., 2019) | 9,432/1,188 | S | ✓ | Depth-aware synthetic rain + fog based on Cityscapes | CVPR 2019 | [Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Hu_Depth-Attentional_Features_for_Single-Image_Rain_Removal_CVPR_2019_paper.pdf) | — |
+| RainCityscapes (Hu et al., 2019) | 9,432/1,188 | S | ✓ | Depth-aware synthetic rain + fog based on Cityscapes | CVPR 2019 | [Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Hu_Depth-Attentional_Features_for_Single-Image_Rain_Removal_CVPR_2019_paper.pdf) | [Dataset](https://github.com/xw-hu/DAF-Net) |
 | Outdoor-Rain (Li et al., 2019b) | 9,000/1,500 | S | ✓ | Simulated heavy rain with depth-aware streaks and veiling effects | CVPR 2019 | [Paper](https://arxiv.org/abs/1904.05050) | [Dataset](https://github.com/liruoteng/HeavyRainRemoval) |
 | Rain13K (Jiang et al., 2020) | 13,712/4,298 | S | ✓ | Large-scale low-resolution dataset with diverse rain patterns; foundation for modern deraining | CVPR 2020 | [Paper](https://arxiv.org/abs/2003.10985) | [Dataset](https://github.com/kuijiang94/MSPFN) |
 | GT-RAIN (Ba et al., 2022) | 26,124/2,100 | R | ✓ | Fully real paired dataset captured in outdoor conditions | ECCV 2022 | [Paper](https://arxiv.org/abs/2206.10779) | [Dataset](https://github.com/UCLA-VMG/GT-RAIN) |
 | 4K-Rain13k (Chen et al., 2024a) | 12,500/500 | S | ✓ | First UHD dataset with realistic rain geometry; supports high-res model evaluation and training | arXiv 2024 | [Paper](https://arxiv.org/abs/2405.17074) | [Dataset](https://github.com/cschenxiang/UDR-Mixer) |
-| HQ-RAIN (Chen et al., 2025b) | 4,500/500 | S | ✓ | High-fidelity synthetic dataset with perceptually realistic rain patterns | TPAMI 2025 | [Paper](https://arxiv.org/abs/2310.03535) | — |
+| HQ-RAIN (Chen et al., 2025b) | 4,500/500 | S | ✓ | High-fidelity synthetic dataset with perceptually realistic rain patterns | TPAMI 2025 | [Paper](https://arxiv.org/abs/2310.03535) | [Dataset](https://github.com/cschenxiang/HQ-RAIN) |
 
 ## 3.3 去雪数据集
 
