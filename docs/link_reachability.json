@@ -1,0 +1,1782 @@
+{
+  "checked_at": "2026-09-13T11:15:59.003749+00:00",
+  "summary": {
+    "reachable": 288,
+    "manual_review": 9
+  },
+  "results": [
+    {
+      "url": "https://aaai.org/papers/12317-towards-perceptual-image-dehazing-by-physics-based-disentanglement-and-adversarial-training/",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://aaai.org/papers/12317-towards-perceptual-image-dehazing-by-physics-based-disentanglement-and-adversarial-training/"
+    },
+    {
+      "url": "https://alexlai2860.github.io/SnowMaster/",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://alexlai2860.github.io/SnowMaster/"
+    },
+    {
+      "url": "https://ancuti.meo.etc.upt.ro/D_Hazzy_ICIP2016/",
+      "result": "manual_review",
+      "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)>"
+    },
+    {
+      "url": "https://arxiv.org/abs/1601.07661",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/1601.07661"
+    },
+    {
+      "url": "https://arxiv.org/abs/1609.02087",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/1609.02087"
+    },
+    {
+      "url": "https://arxiv.org/abs/1609.07769",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/1609.07769"
+    },
+    {
+      "url": "https://arxiv.org/abs/1701.05957",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/1701.05957"
+    },
+    {
+      "url": "https://arxiv.org/abs/1708.04512",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/1708.04512"
+    },
+    {
+      "url": "https://arxiv.org/abs/1708.07819",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/1708.07819"
+    },
+    {
+      "url": "https://arxiv.org/abs/1711.10098",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/1711.10098"
+    },
+    {
+      "url": "https://arxiv.org/abs/1712.04143",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/1712.04143"
+    },
+    {
+      "url": "https://arxiv.org/abs/1802.07412",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/1802.07412"
+    },
+    {
+      "url": "https://arxiv.org/abs/1803.08396",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/1803.08396"
+    },
+    {
+      "url": "https://arxiv.org/abs/1804.00213",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/1804.00213"
+    },
+    {
+      "url": "https://arxiv.org/abs/1804.05091",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/1804.05091"
+    },
+    {
+      "url": "https://arxiv.org/abs/1804.05101",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/1804.05101"
+    },
+    {
+      "url": "https://arxiv.org/abs/1805.05308",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/1805.05308"
+    },
+    {
+      "url": "https://arxiv.org/abs/1805.06173",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/1805.06173"
+    },
+    {
+      "url": "https://arxiv.org/abs/1807.05698",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/1807.05698"
+    },
+    {
+      "url": "https://arxiv.org/abs/1807.11078",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/1807.11078"
+    },
+    {
+      "url": "https://arxiv.org/abs/1811.08575",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/1811.08575"
+    },
+    {
+      "url": "https://arxiv.org/abs/1812.07051",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/1812.07051"
+    },
+    {
+      "url": "https://arxiv.org/abs/1901.09221",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/1901.09221"
+    },
+    {
+      "url": "https://arxiv.org/abs/1902.01374",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/1902.01374"
+    },
+    {
+      "url": "https://arxiv.org/abs/1903.08558",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/1903.08558"
+    },
+    {
+      "url": "https://arxiv.org/abs/1904.01538",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/1904.01538"
+    },
+    {
+      "url": "https://arxiv.org/abs/1904.02904",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/1904.02904"
+    },
+    {
+      "url": "https://arxiv.org/abs/1904.05050",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/1904.05050"
+    },
+    {
+      "url": "https://arxiv.org/abs/1906.04334",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/1906.04334"
+    },
+    {
+      "url": "https://arxiv.org/abs/1906.11129",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/1906.11129"
+    },
+    {
+      "url": "https://arxiv.org/abs/1908.03245",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/1908.03245"
+    },
+    {
+      "url": "https://arxiv.org/abs/1911.07559",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/1911.07559"
+    },
+    {
+      "url": "https://arxiv.org/abs/1912.07015",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/1912.07015"
+    },
+    {
+      "url": "https://arxiv.org/abs/2001.06968",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/2001.06968"
+    },
+    {
+      "url": "https://arxiv.org/abs/2003.06792",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/2003.06792"
+    },
+    {
+      "url": "https://arxiv.org/abs/2003.10985",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/2003.10985"
+    },
+    {
+      "url": "https://arxiv.org/abs/2004.13388",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/2004.13388"
+    },
+    {
+      "url": "https://arxiv.org/abs/2005.01333",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/2005.01333"
+    },
+    {
+      "url": "https://arxiv.org/abs/2005.03560",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/2005.03560"
+    },
+    {
+      "url": "https://arxiv.org/abs/2006.05580",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/2006.05580"
+    },
+    {
+      "url": "https://arxiv.org/abs/2006.16829",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/2006.16829"
+    },
+    {
+      "url": "https://arxiv.org/abs/2008.03580",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/2008.03580"
+    },
+    {
+      "url": "https://arxiv.org/abs/2009.09238",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/2009.09238"
+    },
+    {
+      "url": "https://arxiv.org/abs/2102.02808",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/2102.02808"
+    },
+    {
+      "url": "https://arxiv.org/abs/2103.11298",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/2103.11298"
+    },
+    {
+      "url": "https://arxiv.org/abs/2103.13660",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/2103.13660"
+    },
+    {
+      "url": "https://arxiv.org/abs/2104.08902",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/2104.08902"
+    },
+    {
+      "url": "https://arxiv.org/abs/2104.08911",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/2104.08911"
+    },
+    {
+      "url": "https://arxiv.org/abs/2104.09367",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/2104.09367"
+    },
+    {
+      "url": "https://arxiv.org/abs/2106.03106",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/2106.03106"
+    },
+    {
+      "url": "https://arxiv.org/abs/2108.02934",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/2108.02934"
+    },
+    {
+      "url": "https://arxiv.org/abs/2108.09079",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/2108.09079"
+    },
+    {
+      "url": "https://arxiv.org/abs/2108.10257",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/2108.10257"
+    },
+    {
+      "url": "https://arxiv.org/abs/2108.11364",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/2108.11364"
+    },
+    {
+      "url": "https://arxiv.org/abs/2109.02973",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/2109.02973"
+    },
+    {
+      "url": "https://arxiv.org/abs/2111.09881",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/2111.09881"
+    },
+    {
+      "url": "https://arxiv.org/abs/2111.14813",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/2111.14813"
+    },
+    {
+      "url": "https://arxiv.org/abs/2203.11509",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/2203.11509"
+    },
+    {
+      "url": "https://arxiv.org/abs/2203.13699",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/2203.13699"
+    },
+    {
+      "url": "https://arxiv.org/abs/2204.03883",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/2204.03883"
+    },
+    {
+      "url": "https://arxiv.org/abs/2204.04676",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/2204.04676"
+    },
+    {
+      "url": "https://arxiv.org/abs/2204.13348",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/2204.13348"
+    },
+    {
+      "url": "https://arxiv.org/abs/2205.01649",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/2205.01649"
+    },
+    {
+      "url": "https://arxiv.org/abs/2206.10779",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/2206.10779"
+    },
+    {
+      "url": "https://arxiv.org/abs/2207.05605",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/2207.05605"
+    },
+    {
+      "url": "https://arxiv.org/abs/2207.10455",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/2207.10455"
+    },
+    {
+      "url": "https://arxiv.org/abs/2207.14626",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/2207.14626"
+    },
+    {
+      "url": "https://arxiv.org/abs/2303.09757",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/2303.09757"
+    },
+    {
+      "url": "https://arxiv.org/abs/2303.11950",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/2303.11950"
+    },
+    {
+      "url": "https://arxiv.org/abs/2305.17863",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/2305.17863"
+    },
+    {
+      "url": "https://arxiv.org/abs/2306.13090",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/2306.13090"
+    },
+    {
+      "url": "https://arxiv.org/abs/2308.03021",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/2308.03021"
+    },
+    {
+      "url": "https://arxiv.org/abs/2308.03867",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/2308.03867"
+    },
+    {
+      "url": "https://arxiv.org/abs/2308.14036",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/2308.14036"
+    },
+    {
+      "url": "https://arxiv.org/abs/2308.14334",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/2308.14334"
+    },
+    {
+      "url": "https://arxiv.org/abs/2309.17389",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/2309.17389"
+    },
+    {
+      "url": "https://arxiv.org/abs/2310.03535",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/2310.03535"
+    },
+    {
+      "url": "https://arxiv.org/abs/2310.10123",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/2310.10123"
+    },
+    {
+      "url": "https://arxiv.org/abs/2312.01381",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/2312.01381"
+    },
+    {
+      "url": "https://arxiv.org/abs/2312.02918",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/2312.02918"
+    },
+    {
+      "url": "https://arxiv.org/abs/2403.00644",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/2403.00644"
+    },
+    {
+      "url": "https://arxiv.org/abs/2403.01105",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/2403.01105"
+    },
+    {
+      "url": "https://arxiv.org/abs/2404.01547",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/2404.01547"
+    },
+    {
+      "url": "https://arxiv.org/abs/2404.09476",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/2404.09476"
+    },
+    {
+      "url": "https://arxiv.org/abs/2404.17825",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/2404.17825"
+    },
+    {
+      "url": "https://arxiv.org/abs/2405.06277",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/2405.06277"
+    },
+    {
+      "url": "https://arxiv.org/abs/2405.17074",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/2405.17074"
+    },
+    {
+      "url": "https://arxiv.org/abs/2407.10172",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/2407.10172"
+    },
+    {
+      "url": "https://arxiv.org/abs/2408.15994",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/2408.15994"
+    },
+    {
+      "url": "https://arxiv.org/abs/2409.19679",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/2409.19679"
+    },
+    {
+      "url": "https://arxiv.org/abs/2410.07901",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/2410.07901"
+    },
+    {
+      "url": "https://arxiv.org/abs/2410.16095",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/2410.16095"
+    },
+    {
+      "url": "https://arxiv.org/abs/2501.12981",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/2501.12981"
+    },
+    {
+      "url": "https://arxiv.org/abs/2503.13147",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/2503.13147"
+    },
+    {
+      "url": "https://arxiv.org/abs/2503.15017",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/2503.15017"
+    },
+    {
+      "url": "https://arxiv.org/abs/2503.18703",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/2503.18703"
+    },
+    {
+      "url": "https://arxiv.org/abs/2503.19262",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/2503.19262"
+    },
+    {
+      "url": "https://arxiv.org/abs/2504.04158",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/2504.04158"
+    },
+    {
+      "url": "https://arxiv.org/abs/2504.05590",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/2504.05590"
+    },
+    {
+      "url": "https://arxiv.org/abs/2504.09621",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/2504.09621"
+    },
+    {
+      "url": "https://arxiv.org/abs/2505.12630",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/2505.12630"
+    },
+    {
+      "url": "https://arxiv.org/abs/2506.16960",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/2506.16960"
+    },
+    {
+      "url": "https://arxiv.org/abs/2506.16961",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/2506.16961"
+    },
+    {
+      "url": "https://arxiv.org/abs/2509.11642",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/2509.11642"
+    },
+    {
+      "url": "https://arxiv.org/abs/2509.20091",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/2509.20091"
+    },
+    {
+      "url": "https://arxiv.org/abs/2603.05940",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://arxiv.org/abs/2603.05940"
+    },
+    {
+      "url": "https://cs.nyu.edu/~fergus/datasets/nyu_depth_v2.html",
+      "result": "manual_review",
+      "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)>"
+    },
+    {
+      "url": "https://data.vision.ee.ethz.ch/cvl/ntire18/i-haze/",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://data.vision.ee.ethz.ch/cvl/ntire18/i-haze/"
+    },
+    {
+      "url": "https://data.vision.ee.ethz.ch/cvl/ntire18/o-haze/",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://data.vision.ee.ethz.ch/cvl/ntire18/o-haze/"
+    },
+    {
+      "url": "https://data.vision.ee.ethz.ch/cvl/ntire19/dense-haze/",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://data.vision.ee.ethz.ch/cvl/ntire19/dense-haze/"
+    },
+    {
+      "url": "https://data.vision.ee.ethz.ch/cvl/ntire20/nh-haze/",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://data.vision.ee.ethz.ch/cvl/ntire20/nh-haze/"
+    },
+    {
+      "url": "https://doi.org/10.1007/978-3-319-46475-6_10",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://link.springer.com/chapter/10.1007/978-3-319-46475-6_10?error=cookies_not_supported&code=2c42e423-e2ef-4938-9740-ea06a01e5951"
+    },
+    {
+      "url": "https://doi.org/10.1007/s11263-019-01235-8",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://link.springer.com/article/10.1007/s11263-019-01235-8?error=cookies_not_supported&code=88333011-e4a0-44ca-a626-7aee1585d082"
+    },
+    {
+      "url": "https://doi.org/10.1109%2FCVPR.2016.299",
+      "result": "reachable",
+      "http_status": 202,
+      "final_url": "https://ieeexplore.ieee.org/document/7780668/"
+    },
+    {
+      "url": "https://doi.org/10.1109/ACCESS.2019.2900323",
+      "result": "reachable",
+      "http_status": 202,
+      "final_url": "https://ieeexplore.ieee.org/document/8645630/"
+    },
+    {
+      "url": "https://doi.org/10.1109/ICME51207.2021.9428282",
+      "result": "reachable",
+      "http_status": 202,
+      "final_url": "https://ieeexplore.ieee.org/document/9428282/"
+    },
+    {
+      "url": "https://doi.org/10.1109/IVS.2010.5548128",
+      "result": "reachable",
+      "http_status": 202,
+      "final_url": "https://ieeexplore.ieee.org/document/5548128/"
+    },
+    {
+      "url": "https://doi.org/10.1109/TCSVT.2018.2880223",
+      "result": "reachable",
+      "http_status": 202,
+      "final_url": "https://ieeexplore.ieee.org/document/8529212/"
+    },
+    {
+      "url": "https://doi.org/10.1109/TCSVT.2020.3003025",
+      "result": "reachable",
+      "http_status": 202,
+      "final_url": "https://ieeexplore.ieee.org/document/9119486/"
+    },
+    {
+      "url": "https://doi.org/10.1109/TCSVT.2020.3036992",
+      "result": "reachable",
+      "http_status": 202,
+      "final_url": "https://ieeexplore.ieee.org/document/9252912/"
+    },
+    {
+      "url": "https://doi.org/10.1109/TCSVT.2021.3097713",
+      "result": "reachable",
+      "http_status": 202,
+      "final_url": "https://ieeexplore.ieee.org/document/9489298/"
+    },
+    {
+      "url": "https://doi.org/10.1109/TCSVT.2023.3299324",
+      "result": "reachable",
+      "http_status": 202,
+      "final_url": "https://ieeexplore.ieee.org/document/10196308/"
+    },
+    {
+      "url": "https://doi.org/10.1109/TCSVT.2025.3526647",
+      "result": "reachable",
+      "http_status": 202,
+      "final_url": "https://ieeexplore.ieee.org/document/10830558/"
+    },
+    {
+      "url": "https://doi.org/10.1109/TCYB.2019.2955092",
+      "result": "reachable",
+      "http_status": 202,
+      "final_url": "https://ieeexplore.ieee.org/document/8946591/"
+    },
+    {
+      "url": "https://doi.org/10.1109/TIP.2019.2952690",
+      "result": "reachable",
+      "http_status": 202,
+      "final_url": "https://ieeexplore.ieee.org/document/8902220/"
+    },
+    {
+      "url": "https://doi.org/10.1109/TIP.2020.2975986",
+      "result": "reachable",
+      "http_status": 202,
+      "final_url": "https://ieeexplore.ieee.org/document/9018375/"
+    },
+    {
+      "url": "https://doi.org/10.1109/TIP.2021.3060873",
+      "result": "reachable",
+      "http_status": 202,
+      "final_url": "https://ieeexplore.ieee.org/document/9366772/"
+    },
+    {
+      "url": "https://doi.org/10.1109/TIP.2021.3116790",
+      "result": "reachable",
+      "http_status": 202,
+      "final_url": "https://ieeexplore.ieee.org/document/9562276/"
+    },
+    {
+      "url": "https://doi.org/10.1109/TIV.2023.3347952",
+      "result": "reachable",
+      "http_status": 202,
+      "final_url": "https://ieeexplore.ieee.org/document/10375786/"
+    },
+    {
+      "url": "https://doi.org/10.1109/TPAMI.2019.2895793",
+      "result": "reachable",
+      "http_status": 202,
+      "final_url": "https://ieeexplore.ieee.org/document/8627954/"
+    },
+    {
+      "url": "https://doi.org/10.1109/WACV.2019.00127",
+      "result": "reachable",
+      "http_status": 202,
+      "final_url": "https://ieeexplore.ieee.org/document/8658408/"
+    },
+    {
+      "url": "https://doi.org/10.1145/3581783.3613789",
+      "result": "manual_review",
+      "http_status": 403
+    },
+    {
+      "url": "https://doi.org/10.1145/3746027.3758228",
+      "result": "manual_review",
+      "http_status": 403
+    },
+    {
+      "url": "https://github.com/BookerDeWitt/MSBDN-DFF",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/BookerDeWitt/MSBDN-DFF"
+    },
+    {
+      "url": "https://github.com/Boyiliee/AOD-Net",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/Boyiliee/AOD-Net"
+    },
+    {
+      "url": "https://github.com/CastleChen339/DehazeXL",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/CastleChen339/DehazeXL"
+    },
+    {
+      "url": "https://github.com/ClimBin/ACLNet",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/ClimBin/ACLNet"
+    },
+    {
+      "url": "https://github.com/Dengsgithub/DRD-Net",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/Dengsgithub/DRD-Net"
+    },
+    {
+      "url": "https://github.com/ErinChen1/EPDN",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/ErinChen1/EPDN"
+    },
+    {
+      "url": "https://github.com/FVL2020/ICCV-2023-MB-TaylorFormer",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/FVL2020/ICCV-2023-MB-TaylorFormer"
+    },
+    {
+      "url": "https://github.com/GlassyWu/AECR-Net",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/GlassyWu/AECR-Net"
+    },
+    {
+      "url": "https://github.com/GuangluDong0728/CSUD-Unsupervised-Deraining-CVPR2025",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/GuangluDong0728/CSUD-Unsupervised-Deraining-CVPR2025"
+    },
+    {
+      "url": "https://github.com/House-yuyu/Perceive-IR",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/House-yuyu/Perceive-IR"
+    },
+    {
+      "url": "https://github.com/House-yuyu/UniUIR",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/House-yuyu/UniUIR"
+    },
+    {
+      "url": "https://github.com/IDKiro/DehazeFormer",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/IDKiro/DehazeFormer"
+    },
+    {
+      "url": "https://github.com/IGITUGraz/WeatherDiffusion",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/IGITUGraz/WeatherDiffusion"
+    },
+    {
+      "url": "https://github.com/Jiayi-Fu/IPC-Dehaze",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/Jiayi-Fu/IPC-Dehaze"
+    },
+    {
+      "url": "https://github.com/Joyies/SPDNet",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/Joyies/SPDNet"
+    },
+    {
+      "url": "https://github.com/JunlinHan/BID",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/JunlinHan/BID"
+    },
+    {
+      "url": "https://github.com/Justones/AMIRNet",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/Justones/AMIRNet"
+    },
+    {
+      "url": "https://github.com/LYL1015/JarvisIR",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/LYL1015/JarvisIR"
+    },
+    {
+      "url": "https://github.com/Li-Chongyi/Dehamer",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/Li-Chongyi/Dehamer"
+    },
+    {
+      "url": "https://github.com/LouisYuxuLu/AiOENet",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/LouisYuxuLu/AiOENet"
+    },
+    {
+      "url": "https://github.com/MC-E/Deep-Generalized-Unfolding-Networks-for-Image-Restoration",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/MC-E/Deep-Generalized-Unfolding-Networks-for-Image-Restoration"
+    },
+    {
+      "url": "https://github.com/MingTian99/ESDNet",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/MingTian99/ESDNet"
+    },
+    {
+      "url": "https://github.com/Owen718/AWRCP",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/Owen718/AWRCP"
+    },
+    {
+      "url": "https://github.com/Owen718/Towards-Real-time-High-Definition-Image-Snow-Removal-Efficient-Pyramid-Network",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/Owen718/Towards-Real-time-High-Definition-Image-Snow-Removal-Efficient-Pyramid-Network"
+    },
+    {
+      "url": "https://github.com/RangeWING/MetaWeather",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/RangeWING/MetaWeather"
+    },
+    {
+      "url": "https://github.com/TaoWangzj/GridFormer",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/TaoWangzj/GridFormer"
+    },
+    {
+      "url": "https://github.com/TonyHongtaoWu/SemiVDN",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/TonyHongtaoWu/SemiVDN"
+    },
+    {
+      "url": "https://github.com/TxpHome/DFPIR",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/TxpHome/DFPIR"
+    },
+    {
+      "url": "https://github.com/UCLA-VMG/GT-RAIN",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/UCLA-VMG/GT-RAIN"
+    },
+    {
+      "url": "https://github.com/UCLA-VMG/WeatherStream",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/UCLA-VMG/WeatherStream"
+    },
+    {
+      "url": "https://github.com/WeilanAnnn/FD-GAN",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/WeilanAnnn/FD-GAN"
+    },
+    {
+      "url": "https://github.com/XLearning-SCU/2021-IJCV-YOLY",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/XLearning-SCU/2021-IJCV-YOLY"
+    },
+    {
+      "url": "https://github.com/XLearning-SCU/2022-CVPR-AirNet",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/XLearning-SCU/2022-CVPR-AirNet"
+    },
+    {
+      "url": "https://github.com/XMU-smartdsp/Removing_Rain",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/XMU-smartdsp/Removing_Rain"
+    },
+    {
+      "url": "https://github.com/XiaLiPKU/RESCAN",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/XiaLiPKU/RESCAN"
+    },
+    {
+      "url": "https://github.com/ZhangXinNan/RainDetectionAndRemoval",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/ZhangXinNan/RainDetectionAndRemoval"
+    },
+    {
+      "url": "https://github.com/ZhendongWang6/Uformer",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/ZhendongWang6/Uformer"
+    },
+    {
+      "url": "https://github.com/alexlai2860/SnowMaster",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/alexlai2860/SnowMaster"
+    },
+    {
+      "url": "https://github.com/booker-max/Unsupervised-Deraining-with-Event-Camera",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/booker-max/Unsupervised-Deraining-with-Event-Camera"
+    },
+    {
+      "url": "https://github.com/c-yn/FocalNet",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/c-yn/FocalNet"
+    },
+    {
+      "url": "https://github.com/c-yn/OKNet",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/c-yn/OKNet"
+    },
+    {
+      "url": "https://github.com/caibolun/DehazeNet",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/caibolun/DehazeNet"
+    },
+    {
+      "url": "https://github.com/cassiopeia-yxx/PADUM",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/cassiopeia-yxx/PADUM"
+    },
+    {
+      "url": "https://github.com/cecret3350/PTTD-Dehazing",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/cecret3350/PTTD-Dehazing"
+    },
+    {
+      "url": "https://github.com/chaimi2013/FAMED-Net",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/chaimi2013/FAMED-Net"
+    },
+    {
+      "url": "https://github.com/cschenxiang/DCD-GAN",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/cschenxiang/DCD-GAN"
+    },
+    {
+      "url": "https://github.com/cschenxiang/DRSformer",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/cschenxiang/DRSformer"
+    },
+    {
+      "url": "https://github.com/cschenxiang/HCT-FFN",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/cschenxiang/HCT-FFN"
+    },
+    {
+      "url": "https://github.com/cschenxiang/NeRD-Rain",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/cschenxiang/NeRD-Rain"
+    },
+    {
+      "url": "https://github.com/cschenxiang/UDR-Mixer",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/cschenxiang/UDR-Mixer"
+    },
+    {
+      "url": "https://github.com/csdwren/PReNet",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/csdwren/PReNet"
+    },
+    {
+      "url": "https://github.com/deng-ai-lab/FADformer",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/deng-ai-lab/FADformer"
+    },
+    {
+      "url": "https://github.com/engindeniz/Cycle-Dehaze",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/engindeniz/Cycle-Dehaze"
+    },
+    {
+      "url": "https://github.com/fingerk28/Two-stage-Knowledge-For-Multiple-Adverse-Weather-Removal",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/fingerk28/Two-stage-Knowledge-For-Multiple-Adverse-Weather-Removal"
+    },
+    {
+      "url": "https://github.com/flyywh/JORDER-E-Deep-Image-deraining-TPAMI-2019-Journal",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/flyywh/JORDER-E-Deep-Image-deraining-TPAMI-2019-Journal"
+    },
+    {
+      "url": "https://github.com/fyxnl/COA",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/fyxnl/COA"
+    },
+    {
+      "url": "https://github.com/guanqiyuan/WeatherBench",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/guanqiyuan/WeatherBench"
+    },
+    {
+      "url": "https://github.com/hezhangsprinter/DCPDN",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/hezhangsprinter/DCPDN"
+    },
+    {
+      "url": "https://github.com/hezhangsprinter/DID-MDN",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/hezhangsprinter/DID-MDN"
+    },
+    {
+      "url": "https://github.com/hezhangsprinter/ID-CGAN",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/hezhangsprinter/ID-CGAN"
+    },
+    {
+      "url": "https://github.com/hhb072/MPerceiver-Code",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/hhb072/MPerceiver-Code"
+    },
+    {
+      "url": "https://github.com/hongwang01/RCDNet",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/hongwang01/RCDNet"
+    },
+    {
+      "url": "https://github.com/hongwang01/VRGNet",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/hongwang01/VRGNet"
+    },
+    {
+      "url": "https://github.com/jeya-maria-jose/TransWeather",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/jeya-maria-jose/TransWeather"
+    },
+    {
+      "url": "https://github.com/jiangyitong/AutoDIR",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/jiangyitong/AutoDIR"
+    },
+    {
+      "url": "https://github.com/jiaqixuac/MAP-Net",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/jiaqixuac/MAP-Net"
+    },
+    {
+      "url": "https://github.com/jiexiaou/IDT",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/jiexiaou/IDT"
+    },
+    {
+      "url": "https://github.com/jingyunliang/swinir",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/jingyunliang/swinir"
+    },
+    {
+      "url": "https://github.com/joshyZhou/AST",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/joshyZhou/AST"
+    },
+    {
+      "url": "https://github.com/kuijiang94/MSPFN",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/kuijiang94/MSPFN"
+    },
+    {
+      "url": "https://github.com/kuijiang94/Magic-ELF",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/kuijiang94/Magic-ELF"
+    },
+    {
+      "url": "https://github.com/liruoteng/HeavyRainRemoval",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/liruoteng/HeavyRainRemoval"
+    },
+    {
+      "url": "https://github.com/liuh127/NTIRE-2021-Dehazing-DWGAN",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/liuh127/NTIRE-2021-Dehazing-DWGAN"
+    },
+    {
+      "url": "https://github.com/liuh127/NTIRE-2021-Dehazing-Two-branch",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/liuh127/NTIRE-2021-Dehazing-Two-branch"
+    },
+    {
+      "url": "https://github.com/liuye123321/DMT-Net",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/liuye123321/DMT-Net"
+    },
+    {
+      "url": "https://github.com/longfafffa/SemiDDM-Weather",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/longfafffa/SemiDDM-Weather"
+    },
+    {
+      "url": "https://github.com/luowyang/Defusion",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/luowyang/Defusion"
+    },
+    {
+      "url": "https://github.com/manman1995/Fourmer",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/manman1995/Fourmer"
+    },
+    {
+      "url": "https://github.com/megvii-research/NAFNet",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/megvii-research/NAFNet"
+    },
+    {
+      "url": "https://github.com/noxsine/LDR",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/noxsine/LDR"
+    },
+    {
+      "url": "https://github.com/panda-lab/Single-Image-Deraining",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/panda-lab/Single-Image-Deraining"
+    },
+    {
+      "url": "https://github.com/phoenixtreesky7/PGC-DN",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/phoenixtreesky7/PGC-DN"
+    },
+    {
+      "url": "https://github.com/proteus1991/GridDehazeNet",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/proteus1991/GridDehazeNet"
+    },
+    {
+      "url": "https://github.com/rajeevyasarla/Syn2Real",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/rajeevyasarla/Syn2Real"
+    },
+    {
+      "url": "https://github.com/rajeevyasarla/UMRL--using-Cycle-Spinning",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/rajeevyasarla/UMRL--using-Cycle-Spinning"
+    },
+    {
+      "url": "https://github.com/rui1996/DeRaindrop",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/rui1996/DeRaindrop"
+    },
+    {
+      "url": "https://github.com/ruiyi-w/Learning-Hazing-to-Dehazing",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/ruiyi-w/Learning-Hazing-to-Dehazing"
+    },
+    {
+      "url": "https://github.com/rwenqi/GFN-dehazing",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/rwenqi/GFN-dehazing"
+    },
+    {
+      "url": "https://github.com/rwenqi/Multi-scale-CNN-Dehazing",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/rwenqi/Multi-scale-CNN-Dehazing"
+    },
+    {
+      "url": "https://github.com/stevewongv/SPANet",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/stevewongv/SPANet"
+    },
+    {
+      "url": "https://github.com/sunshangquan/Histoformer",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/sunshangquan/Histoformer"
+    },
+    {
+      "url": "https://github.com/swz30/MIRNet",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/swz30/MIRNet"
+    },
+    {
+      "url": "https://github.com/swz30/MIRNetv2",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/swz30/MIRNetv2"
+    },
+    {
+      "url": "https://github.com/swz30/MPRNet",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/swz30/MPRNet"
+    },
+    {
+      "url": "https://github.com/swz30/Restormer",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/swz30/Restormer"
+    },
+    {
+      "url": "https://github.com/tsingqguo/efficientderain",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/tsingqguo/efficientderain"
+    },
+    {
+      "url": "https://github.com/ttz-rainbow/HCSD-Net",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/ttz-rainbow/HCSD-Net"
+    },
+    {
+      "url": "https://github.com/va1shn9v/PromptIR",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/va1shn9v/PromptIR"
+    },
+    {
+      "url": "https://github.com/wangzrk/LMHaze",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/wangzrk/LMHaze"
+    },
+    {
+      "url": "https://github.com/weitingchen83/ICCV2021-Single-Image-Desnowing-HDCWNet",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/weitingchen83/ICCV2021-Single-Image-Desnowing-HDCWNet"
+    },
+    {
+      "url": "https://github.com/weitingchen83/JSTASR-DesnowNet-ECCV-2020",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/weitingchen83/JSTASR-DesnowNet-ECCV-2020"
+    },
+    {
+      "url": "https://github.com/wwzjer/Semi-supervised-IRR",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/wwzjer/Semi-supervised-IRR"
+    },
+    {
+      "url": "https://github.com/xiaofeng94/RefineDNet-for-dehazing",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/xiaofeng94/RefineDNet-for-dehazing"
+    },
+    {
+      "url": "https://github.com/xin1u/ILAWR",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/xin1u/ILAWR"
+    },
+    {
+      "url": "https://github.com/yuhaoliu7456/Diff-Plugin",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/yuhaoliu7456/Diff-Plugin"
+    },
+    {
+      "url": "https://github.com/yunguo224/LHP-Rain",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/yunguo224/LHP-Rain"
+    },
+    {
+      "url": "https://github.com/ywxjm/Diff-Dehazer",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/ywxjm/Diff-Dehazer"
+    },
+    {
+      "url": "https://github.com/zhilin007/FFA-Net",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/zhilin007/FFA-Net"
+    },
+    {
+      "url": "https://github.com/zhoushen1/DCMPNet",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/zhoushen1/DCMPNet"
+    },
+    {
+      "url": "https://github.com/zhuyr97/WGWS-Net",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/zhuyr97/WGWS-Net"
+    },
+    {
+      "url": "https://github.com/zkawfanx/RLP",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/zkawfanx/RLP"
+    },
+    {
+      "url": "https://github.com/zychen-ustc/PSD-Principled-Synthetic-to-Real-Dehazing-Guided-by-Physical-Priors",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/zychen-ustc/PSD-Principled-Synthetic-to-Real-Dehazing-Guided-by-Physical-Priors"
+    },
+    {
+      "url": "https://github.com/zzr-idam/4KDehazing",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://github.com/zzr-idam/4KDehazing"
+    },
+    {
+      "url": "https://ieeexplore.ieee.org/document/6190796",
+      "result": "reachable",
+      "http_status": 202,
+      "final_url": "https://ieeexplore.ieee.org/document/6190796"
+    },
+    {
+      "url": "https://ieeexplore.ieee.org/document/7532754/",
+      "result": "reachable",
+      "http_status": 202,
+      "final_url": "https://ieeexplore.ieee.org/document/7532754/"
+    },
+    {
+      "url": "https://ieeexplore.ieee.org/document/9798773",
+      "result": "reachable",
+      "http_status": 202,
+      "final_url": "https://ieeexplore.ieee.org/document/9798773"
+    },
+    {
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/25111",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://ojs.aaai.org/index.php/AAAI/article/view/25111"
+    },
+    {
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/27907",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://ojs.aaai.org/index.php/AAAI/article/view/27907"
+    },
+    {
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/4971",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://ojs.aaai.org/index.php/AAAI/article/view/4971"
+    },
+    {
+      "url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_PSD_Principled_Synthetic-to-Real_Dehazing_Guided_by_Physical_Priors_CVPR_2021_paper.pdf",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_PSD_Principled_Synthetic-to-Real_Dehazing_Guided_by_Physical_Priors_CVPR_2021_paper.pdf"
+    },
+    {
+      "url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Huang_Memory_Oriented_Transfer_Learning_for_Semi-Supervised_Image_Deraining_CVPR_2021_paper.pdf",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Huang_Memory_Oriented_Transfer_Learning_for_Semi-Supervised_Image_Deraining_CVPR_2021_paper.pdf"
+    },
+    {
+      "url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Zheng_Ultra-High-Definition_Image_Dehazing_via_Multi-Guided_Bilateral_Learning_CVPR_2021_paper.pdf",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Zheng_Ultra-High-Definition_Image_Dehazing_via_Multi-Guided_Bilateral_Learning_CVPR_2021_paper.pdf"
+    },
+    {
+      "url": "https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Jo_Multi-Scale_Selective_Residual_Learning_for_Non-Homogeneous_Dehazing_CVPRW_2021_paper.pdf",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Jo_Multi-Scale_Selective_Residual_Learning_for_Non-Homogeneous_Dehazing_CVPRW_2021_paper.pdf"
+    },
+    {
+      "url": "https://openaccess.thecvf.com/content/CVPR2022/html/Chen_Learning_Multiple_Adverse_Weather_Removal_via_Two-Stage_Knowledge_Learning_and_CVPR_2022_paper.html",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://openaccess.thecvf.com/content/CVPR2022/html/Chen_Learning_Multiple_Adverse_Weather_Removal_via_Two-Stage_Knowledge_Learning_and_CVPR_2022_paper.html"
+    },
+    {
+      "url": "https://openaccess.thecvf.com/content/CVPR2022/html/Li_All-in-One_Image_Restoration_for_Unknown_Corruption_CVPR_2022_paper.html",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://openaccess.thecvf.com/content/CVPR2022/html/Li_All-in-One_Image_Restoration_for_Unknown_Corruption_CVPR_2022_paper.html"
+    },
+    {
+      "url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Guo_Image_Dehazing_Transformer_With_Transmission-Aware_3D_Position_Embedding_CVPR_2022_paper.pdf",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Guo_Image_Dehazing_Transformer_With_Transmission-Aware_3D_Position_Embedding_CVPR_2022_paper.pdf"
+    },
+    {
+      "url": "https://openaccess.thecvf.com/content/CVPR2023/html/Zhu_Learning_Weather-General_and_Weather-Specific_Features_for_Image_Restoration_Under_Multiple_CVPR_2023_paper.html",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://openaccess.thecvf.com/content/CVPR2023/html/Zhu_Learning_Weather-General_and_Weather-Specific_Features_for_Image_Restoration_Under_Multiple_CVPR_2023_paper.html"
+    },
+    {
+      "url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_SmartAssign_Learning_a_Smart_Knowledge_Assignment_Strategy_for_Deraining_and_CVPR_2023_paper.pdf",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_SmartAssign_Learning_a_Smart_Knowledge_Assignment_Strategy_for_Deraining_and_CVPR_2023_paper.pdf"
+    },
+    {
+      "url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_WeatherStream_Light_Transport_Automation_of_Single_Image_Deweathering_CVPR_2023_paper.pdf",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_WeatherStream_Light_Transport_Automation_of_Single_Image_Deweathering_CVPR_2023_paper.pdf"
+    },
+    {
+      "url": "https://openaccess.thecvf.com/content/CVPR2024/html/Ye_Learning_Diffusion_Texture_Priors_for_Image_Restoration_CVPR_2024_paper.html",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://openaccess.thecvf.com/content/CVPR2024/html/Ye_Learning_Diffusion_Texture_Priors_for_Image_Restoration_CVPR_2024_paper.html"
+    },
+    {
+      "url": "https://openaccess.thecvf.com/content/CVPR2024/html/Zhou_Adapt_or_Perish_Adaptive_Sparse_Transformer_with_Attentive_Feature_Refinement_CVPR_2024_paper.html",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://openaccess.thecvf.com/content/CVPR2024/html/Zhou_Adapt_or_Perish_Adaptive_Sparse_Transformer_with_Attentive_Feature_Refinement_CVPR_2024_paper.html"
+    },
+    {
+      "url": "https://openaccess.thecvf.com/content/CVPR2025/html/Gu_ACL_Activating_Capability_of_Linear_Attention_for_Image_Restoration_CVPR_2025_paper.html",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://openaccess.thecvf.com/content/CVPR2025/html/Gu_ACL_Activating_Capability_of_Linear_Attention_for_Image_Restoration_CVPR_2025_paper.html"
+    },
+    {
+      "url": "https://openaccess.thecvf.com/content/CVPR2025/html/Liu_UHD-processer_Unified_UHD_Image_Restoration_with_Progressive_Frequency_Learning_and_CVPR_2025_paper.html",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://openaccess.thecvf.com/content/CVPR2025/html/Liu_UHD-processer_Unified_UHD_Image_Restoration_with_Progressive_Frequency_Learning_and_CVPR_2025_paper.html"
+    },
+    {
+      "url": "https://openaccess.thecvf.com/content/CVPR2025/html/Lu_Continuous_Adverse_Weather_Removal_via_Degradation-Aware_Distillation_CVPR_2025_paper.html",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://openaccess.thecvf.com/content/CVPR2025/html/Lu_Continuous_Adverse_Weather_Removal_via_Degradation-Aware_Distillation_CVPR_2025_paper.html"
+    },
+    {
+      "url": "https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Adapting_Text-to-Image_Generation_with_Feature_Difference_Instruction_for_Generic_Image_CVPR_2025_paper.html",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Adapting_Text-to-Image_Generation_with_Feature_Difference_Instruction_for_Generic_Image_CVPR_2025_paper.html"
+    },
+    {
+      "url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Lai_SnowMaster_Comprehensive_Real-world_Image_Desnowing_via_MLLM_with_Multi-Model_Feedback_CVPR_2025_paper.pdf",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Lai_SnowMaster_Comprehensive_Real-world_Image_Desnowing_via_MLLM_with_Multi-Model_Feedback_CVPR_2025_paper.pdf"
+    },
+    {
+      "url": "https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_ALL_Snow_Removed_Single_Image_Desnowing_Algorithm_Using_Hierarchical_Dual-Tree_ICCV_2021_paper.pdf",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_ALL_Snow_Removed_Single_Image_Desnowing_Algorithm_Using_Hierarchical_Dual-Tree_ICCV_2021_paper.pdf"
+    },
+    {
+      "url": "https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Unpaired_Learning_for_Deep_Image_Deraining_With_Rain_Direction_Regularizer_ICCV_2021_paper.pdf",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Unpaired_Learning_for_Deep_Image_Deraining_With_Rain_Direction_Regularizer_ICCV_2021_paper.pdf"
+    },
+    {
+      "url": "https://openaccess.thecvf.com/content/ICCV2023/html/Cui_Focal_Network_for_Image_Restoration_ICCV_2023_paper.html",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://openaccess.thecvf.com/content/ICCV2023/html/Cui_Focal_Network_for_Image_Restoration_ICCV_2023_paper.html"
+    },
+    {
+      "url": "https://openaccess.thecvf.com/content/ICCV2023/html/Ye_Adverse_Weather_Removal_with_Codebook_Priors_ICCV_2023_paper.html",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://openaccess.thecvf.com/content/ICCV2023/html/Ye_Adverse_Weather_Removal_with_Codebook_Priors_ICCV_2023_paper.html"
+    },
+    {
+      "url": "https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_Unsupervised_Video_Deraining_with_An_Event_Camera_ICCV_2023_paper.pdf",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_Unsupervised_Video_Deraining_with_An_Event_Camera_ICCV_2023_paper.pdf"
+    },
+    {
+      "url": "https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_Learning_Rain_Location_Prior_for_Nighttime_Deraining_ICCV_2023_paper.pdf",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_Learning_Rain_Location_Prior_for_Nighttime_Deraining_ICCV_2023_paper.pdf"
+    },
+    {
+      "url": "https://openaccess.thecvf.com/content_CVPRW_2020/papers/w51/Zhang_Color-Constrained_Dehazing_Model_CVPRW_2020_paper.pdf",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://openaccess.thecvf.com/content_CVPRW_2020/papers/w51/Zhang_Color-Constrained_Dehazing_Model_CVPRW_2020_paper.pdf"
+    },
+    {
+      "url": "https://openaccess.thecvf.com/content_CVPR_2019/papers/Hu_Depth-Attentional_Features_for_Single-Image_Rain_Removal_CVPR_2019_paper.pdf",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://openaccess.thecvf.com/content_CVPR_2019/papers/Hu_Depth-Attentional_Features_for_Single-Image_Rain_Removal_CVPR_2019_paper.pdf"
+    },
+    {
+      "url": "https://openaccess.thecvf.com/content_CVPR_2019/papers/Qu_Enhanced_Pix2pix_Dehazing_Network_CVPR_2019_paper.pdf",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://openaccess.thecvf.com/content_CVPR_2019/papers/Qu_Enhanced_Pix2pix_Dehazing_Network_CVPR_2019_paper.pdf"
+    },
+    {
+      "url": "https://openaccess.thecvf.com/content_CVPR_2020/html/Li_All_in_One_Bad_Weather_Removal_Using_Architectural_Search_CVPR_2020_paper.html",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://openaccess.thecvf.com/content_CVPR_2020/html/Li_All_in_One_Bad_Weather_Removal_Using_Architectural_Search_CVPR_2020_paper.html"
+    },
+    {
+      "url": "https://openaccess.thecvf.com/content_CVPR_2020/papers/Deng_Detail-recovery_Image_Deraining_via_Context_Aggregation_Networks_CVPR_2020_paper.pdf",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://openaccess.thecvf.com/content_CVPR_2020/papers/Deng_Detail-recovery_Image_Deraining_via_Context_Aggregation_Networks_CVPR_2020_paper.pdf"
+    },
+    {
+      "url": "https://openaccess.thecvf.com/content_ICCV_2017/papers/Li_AOD-Net_All-In-One_Dehazing_ICCV_2017_paper.pdf",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://openaccess.thecvf.com/content_ICCV_2017/papers/Li_AOD-Net_All-In-One_Dehazing_ICCV_2017_paper.pdf"
+    },
+    {
+      "url": "https://openaccess.thecvf.com/content_ICCV_2019/papers/Quan_Deep_Learning_for_Seeing_Through_Window_With_Raindrops_ICCV_2019_paper.pdf",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://openaccess.thecvf.com/content_ICCV_2019/papers/Quan_Deep_Learning_for_Seeing_Through_Window_With_Raindrops_ICCV_2019_paper.pdf"
+    },
+    {
+      "url": "https://openaccess.thecvf.com/content_cvpr_2017/papers/Fu_Removing_Rain_From_CVPR_2017_paper.pdf",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://openaccess.thecvf.com/content_cvpr_2017/papers/Fu_Removing_Rain_From_CVPR_2017_paper.pdf"
+    },
+    {
+      "url": "https://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Single_Image_Dehazing_CVPR_2018_paper.pdf",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Single_Image_Dehazing_CVPR_2018_paper.pdf"
+    },
+    {
+      "url": "https://people.ee.ethz.ch/~csakarid/SFSU_synthetic/",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://people.ee.ethz.ch/~csakarid/SFSU_synthetic/"
+    },
+    {
+      "url": "https://proceedings.mlr.press/v202/zhou23f.html",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://proceedings.mlr.press/v202/zhou23f.html"
+    },
+    {
+      "url": "https://sites.google.com/view/reside-dehaze-datasets",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://sites.google.com/view/reside-dehaze-datasets"
+    },
+    {
+      "url": "https://sites.google.com/view/yunfuliu/desnownet",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://sites.google.com/view/yunfuliu/desnownet"
+    },
+    {
+      "url": "https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660749.pdf",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660749.pdf"
+    },
+    {
+      "url": "https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/5751_ECCV_2024_paper.php",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/5751_ECCV_2024_paper.php"
+    },
+    {
+      "url": "https://www.ijcai.org/proceedings/2018/172",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://www.ijcai.org/proceedings/2018/172"
+    },
+    {
+      "url": "https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/shkf_eccv2012.pdf",
+      "result": "reachable",
+      "http_status": 200,
+      "final_url": "https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/shkf_eccv2012.pdf"
+    },
+    {
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0893608025003740",
+      "result": "manual_review",
+      "http_status": 403
+    },
+    {
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0893608025007257",
+      "result": "manual_review",
+      "http_status": 403
+    },
+    {
+      "url": "https://www.sciencedirect.com/science/article/pii/S0031320325001645",
+      "result": "manual_review",
+      "http_status": 403
+    },
+    {
+      "url": "https://www.sciencedirect.com/science/article/pii/S0893608024002387",
+      "result": "manual_review",
+      "http_status": 403
+    },
+    {
+      "url": "https://www.sciencedirect.com/science/article/pii/S0893608025006197?dgcid=rss_sd_all",
+      "result": "manual_review",
+      "http_status": 403
+    }
+  ]
+}
