@@ -486,6 +486,7 @@ Zhenbo Song, Ruixin Li, Zhenyuan Zhang, Tao Wang, Jianfeng Lu, Xin Yu, Kaihao Zh
 | PSNR | Peak Signal-to-Noise Ratio; pixel-wise fidelity based on the mean squared error |
 | SSIM | Structural Similarity Index; luminance, contrast, and structure — better aligned with human perception |
 | LPIPS | Learned Perceptual Image Patch Similarity; deep features of pre-trained networks (VGG, AlexNet) for perceptual differences that low-level pixel metrics often miss |
+| JLD (beyond survey) | Perceptual Distance Through A Jacobian Lens; patch features of a frozen DINOv2-S/14 encoder projected onto 64 Jacobian-lens directions fitted from 100 unlabelled images without human ratings; differentiable and runs at native resolution; lower is better ([arXiv 2610.05967](https://arxiv.org/abs/2610.05967), [Code](https://github.com/shreshthsaini/jld)) |
 | FSIM | Feature Similarity Index; phase congruency and gradient magnitude for structural consistency |
 | WPSNR, CIEDE2000, VSI, VIF, UQI | Specialized FR metrics (weighted PSNR; color difference; visual saliency-based index; visual information fidelity; universal quality index) appearing in specific benchmarks |
 
